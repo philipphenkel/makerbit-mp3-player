@@ -4,7 +4,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "MakerBit": "github:1010technologies/pxt-makerbit#v0.13.0",
+        "makerbit-mp3-player": "workspace:a70c12bc-2431-4046-3fb1-28b0ae76f11a"
     },
     "files": [
         "README.md",
@@ -14,5 +16,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "installedVersion": "workspace:a70c12bc-2431-4046-3fb1-28b0ae76f11a"
 }
